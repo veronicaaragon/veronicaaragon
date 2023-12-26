@@ -7,6 +7,7 @@ Here you'll find a collection of coding labs that I have completed during my tim
 
    [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/veronicaragon)
 
+
 ## 🎓 Education
 
 - **Bachelor of Engineering:**
