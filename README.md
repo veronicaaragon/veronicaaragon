@@ -23,10 +23,7 @@ Here you'll find a collection of coding labs that I have completed during my tim
 ## 🌍 Outside the World of Tech
 
 - ✈️ **Wanderlust Explorer:** I love traveling and recently had an amazing study abroad trip to Spain.
-- 📌 **Pin it to Win it:** I've got a secret life as a Pinterest blogger—explore my creative realm!
 
-    [![pinterest](https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=Pinterest&logoColor=red)](https://www.pinterest.com/veronicaedited/)
-  
 - 🎵 **Music Alchemist:** Passionate about discovering new music weekly.
 
 Let's connect and build something amazing together! 🚀
