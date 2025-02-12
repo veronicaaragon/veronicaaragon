@@ -19,11 +19,3 @@ Here you'll find a collection of coding labs that I have completed during my tim
 
 - **Coding Languages:** Proficient in Java & Python
 - **Languages:** Fluent in English and Spanish
-
-## 🌍 Outside the World of Tech
-
-- ✈️ **Wanderlust Explorer:** I love traveling and recently had an amazing study abroad trip to Spain.
-
-- 🎵 **Music Alchemist:** Passionate about discovering new music weekly.
-
-Let's connect and build something amazing together! 🚀
